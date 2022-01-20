@@ -1,5 +1,13 @@
 {
   "Patches": {
+    "6c9f89f77c62f7358748e171dabdb79d": {
+      "Files": {
+        "LPReborn.dll": {
+          "MD5": "2dc7ec8c6036c67e1396cf3f24a661c6",
+          "Download": "https://github.com/sbyt3/LPReborn/raw/master/6c9f89f77c62f7358748e171dabdb79d/LPReborn.dll"
+        }
+      }
+    },
     "886bff78c90074dddd40250968d1ddff": {
       "Files": {
         "LPReborn.dll": {
